@@ -1,0 +1,9 @@
+{
+	"typescript.tsdk": "node_modules/typescript/lib",
+    "files.exclude": {
+		"node_modules": true,
+        "**/*.js": false,
+        "**/*.js.map": true,
+		".*": false
+    }
+}
