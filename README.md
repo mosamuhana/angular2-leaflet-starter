@@ -19,6 +19,11 @@ First you must install gulp globally
 ```sh
 npm install gulp -g
 ```
+and Rollup
+```sh
+npm install rollup -g
+```
+
 
 Then, clone this repository.
 ```sh
