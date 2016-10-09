@@ -15,10 +15,15 @@ and
 
 ## Start
 
-First you must install gulp and rollup globally
+First you must install gulp globally
 ```sh
-npm install gulp rollup -g
+npm install gulp -g
 ```
+and Rollup
+```sh
+npm install rollup -g
+```
+
 
 Then, clone this repository.
 ```sh
